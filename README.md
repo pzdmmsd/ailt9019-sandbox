@@ -1,6 +1,6 @@
 # AILT9019 Sandbox
 
-Hello from an AILT9019 student, testing my AI coding setup.
+Hello from zyk, testing my AI coding setup.
 
 This small local app completes the Week 1 T-I vibe-coding exercises from `01_Kickoff.pdf`.
 
